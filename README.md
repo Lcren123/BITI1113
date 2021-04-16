@@ -45,9 +45,10 @@ Given the trained meme chatbot, we’ll proceed to implement two more additional
 We’ll wrap up the post by looking at the results of applying our chatbot.
 
 
-There is two-phase COVID-19 face mask detector as shown in Figure 2:
+There is two-phase meme chatbot as shown in Figure 2:
 
 "Currently Unavailable"
+![Coding](https://github.com/Lcren123/BITI1113/blob/main/currently%20unavailable.jfif)
 
 Our goal is to train a custom deep learning model to be able to ultilize meme in a chat room.
 
@@ -66,11 +67,9 @@ So, we decide to create a meme chatbot so that no matter normal people or ICT wo
 The following directory is our structure of our project:
 
 "Currently Unavailable"
-
+![Coding](https://github.com/Lcren123/BITI1113/blob/main/currently%20unavailable.jfif)
 
 The dataset/ directory should contains the data described in the “Our meme chatbot dataset” section.
-
-
 
 In the next two sections, we will train our chatbot.
 
@@ -80,19 +79,21 @@ In the next two sections, we will train our chatbot.
 
 We are preparing to train our chatbot using Keras, TensorFlow, and Deep Learning(subjected to change).
 
+![Coding](https://github.com/Lcren123/BITI1113/blob/main/work%20in%20progress.jfif)
 *Results are to be expected in a few week time.
 
 
 
 ## F.  RESULT AND CONCLUSION
 
+![Coding](https://github.com/Lcren123/BITI1113/blob/main/work%20in%20progress.jfif)
 *Results and conclusion are to be expected in a few week time.
 
 ## G.   PROJECT PRESENTATION 
 
 In this project, we learned how to create a chatbot using OpenCV, Keras/TensorFlow, and Deep Learning(subjected to change).
 
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+![Coding](https://github.com/Lcren123/BITI1113/blob/main/work%20in%20progress.jfif)
 
 
 
