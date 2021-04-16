@@ -14,8 +14,7 @@
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
 - To create a chatbot that is able to understand meme from the user
-- [insert]
-- [insert]
+- To create a chatbot that is able to reply message with meme
 
 
 ##  B. ABSTRACT 
@@ -48,6 +47,7 @@ We’ll wrap up the post by looking at the results of applying our chatbot.
 There is two-phase meme chatbot as shown in Figure 2:
 
 "Currently Unavailable"
+
 ![Coding](https://github.com/Lcren123/BITI1113/blob/main/currently%20unavailable.jfif)
 
 Our goal is to train a custom deep learning model to be able to ultilize meme in a chat room.
@@ -67,6 +67,7 @@ So, we decide to create a meme chatbot so that no matter normal people or ICT wo
 The following directory is our structure of our project:
 
 "Currently Unavailable"
+
 ![Coding](https://github.com/Lcren123/BITI1113/blob/main/currently%20unavailable.jfif)
 
 The dataset/ directory should contains the data described in the “Our meme chatbot dataset” section.
@@ -80,6 +81,7 @@ In the next two sections, we will train our chatbot.
 We are preparing to train our chatbot using Keras, TensorFlow, and Deep Learning(subjected to change).
 
 ![Coding](https://github.com/Lcren123/BITI1113/blob/main/work%20in%20progress.jfif)
+
 *Results are to be expected in a few week time.
 
 
@@ -87,6 +89,7 @@ We are preparing to train our chatbot using Keras, TensorFlow, and Deep Learning
 ## F.  RESULT AND CONCLUSION
 
 ![Coding](https://github.com/Lcren123/BITI1113/blob/main/work%20in%20progress.jfif)
+
 *Results and conclusion are to be expected in a few week time.
 
 ## G.   PROJECT PRESENTATION 
